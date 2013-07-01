@@ -9,6 +9,7 @@ IAMROOT 10차 ARM-A 팀 스터디에 사용중인 레퍼런스/매뉴얼 모음
 2. arm_soc
   - ARM_Developer_Suite.pdf : http://www.iamroot.org/xe/Kernel_10_ARM/173028
   - DDI0406C_arm_architecture_reference_manual.pdf : http://www.iamroot.org/xe/Kernel_10_ARM/171459
+  - DDI0406C_b_arm_architecture_reference_manual.pdf : http://www.iamroot.org/xe/Kernel_10_ARM/173070 댓글첨부
   - DDI0438H_cortex_a15_r3p3_trm.pdf : http://www.iamroot.org/xe/Kernel_10_ARM/171459
   - Exynos_5_Dual_User_Manaul_Public_REV100-0.pdf : http://www.iamroot.org/xe/Kernel_10_ARM/171457
 
