@@ -16,6 +16,7 @@ IAMROOT 10차 ARM-A 팀 스터디에 사용중인 레퍼런스/매뉴얼 모음
 3. as_gas
   - ARM_Reference-rE.Ejected.pdf : 
   - QRC0001_UAL.pdf : http://www.iamroot.org/xe/Kernel_10_ARM/172244
+  - arm_inst.pdf : http://simplemachines.it/doc/arm_inst.pdf
   - re-ejected-gasref.pdf : http://www.iamroot.org/xe/Kernel_10_ARM/171466
   - as.pdf : http://www.iamroot.org/xe/Kernel_10_ARM/171771
   - ld.pdf : http://www.iamroot.org/xe/Kernel_10_ARM/171771
